@@ -1,0 +1,29 @@
+{
+  "name": "react-native-mobigate",
+  "title": "React Native Mobigate",
+  "version": "1.0.2",
+  "description": "Mobigate SDK react-native plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobigatesdk/react-native-mobigate"
+  },
+  "keywords": [
+    "react-native",
+    "mobience",
+    "mobigate",
+    "mobiencesdk",
+    "spicymobile",
+    "mobigatesdk"
+  ],
+  "author": {
+    "name": "SpicyMobile",
+    "email": "sdk@mobigate.pl"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md"
+}
