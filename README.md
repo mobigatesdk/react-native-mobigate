@@ -1,4 +1,3 @@
-![Mobigate logo](https://wiki.spicymobile.pl/wiki/mobigatesdk/download/Main/WebHome/MobienceSDK_Mobigate.png?width=200&height=200)
 # React Native Mobigate SDK plugin for Android
 MobigateSDK is a tool for gathering users phone data and events tracking. 
 
