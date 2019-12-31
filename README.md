@@ -44,7 +44,7 @@ implementation project(':react-native-mobigate')
 3. Add the MobigatePackage class to your list of exported packages into: `android/app/src/main/.../MainApplication.java`
 ```java
 ...
-implementation project(':react-native-mobigate')
+import pl.spicymobile.reactmobigate.MobigatePackage;
    
    
 @Override
@@ -64,10 +64,10 @@ protected List<ReactPackage> getPackages() {
 if (Platform.OS === 'android') {
 	Mobigate.init("V0K6jhiIfem6CRWHYZ59Nmj3oFBBKbJsnSsWfR2JNq7ktblOUXwbJoBQTpWnw2uSwW76gpiu2kun50jweTY69B",
         {}, 
-		(initSuccess) => {
+	(initSuccess) => {
           console.log(initSuccess)
         }, 
-		(initError) => {
+	(initError) => {
           console.log(initError)
         })
     }
