@@ -39,6 +39,6 @@ rootProject.allprojects {
 
 dependencies {
     implementation "com.facebook.react:react-native:${safeExtGet('reactNativeVersion', '+')}"
-    implementation "pl.spicymobile.mobigate.sdk:mobigate-sdk:${safeExtGet('mobigateSdkVersion', '1.0.4')}"
+    implementation "pl.spicymobile.mobigate.sdk:mobigate-sdk:${safeExtGet('mobigateSdkVersion', '1.0.5')}"
 
 }

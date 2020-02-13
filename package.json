@@ -1,7 +1,7 @@
 {
   "name": "react-native-mobigate",
   "title": "React Native Mobigate",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Mobigate SDK react-native plugin",
   "main": "index.js",
   "scripts": {
